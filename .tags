@@ -1,0 +1,44 @@
+fun	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun(){$/;"	function	line:3	signature:()
+fun1	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun1(){$/;"	function	line:15	signature:()
+fun2	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun2(){$/;"	function	line:22	signature:()
+fun3	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun3(){$/;"	function	line:31	signature:()
+fun4	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun4()$/;"	function	line:53	signature:()
+fun5	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun5(){$/;"	function	line:68	signature:()
+fun6	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun6(){$/;"	function	line:87	signature:()
+fun7	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun7(){$/;"	function	line:120	signature:()
+fun8	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^void fun8(){$/;"	function	line:139	signature:()
+main	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/MAIN.C	/^main()$/;"	function	line:168	signature:()
+GraphDriver	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int    GraphDriver;     \/* The Graphics device driver       *\/$/;"	variable	line:4
+GraphMode	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int    GraphMode;       \/* The Graphics mode value      *\/$/;"	variable	line:5
+MaxX	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int    MaxX, MaxY;      \/* The maximum resolution of the screen *\/$/;"	variable	line:6
+MaxY	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int    MaxX, MaxY;      \/* The maximum resolution of the screen *\/$/;"	variable	line:6
+MaxColors	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int    MaxColors;$/;"	variable	line:7
+ErrorCode	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int    ErrorCode;		\/* Reports any graphics errors		*\/$/;"	variable	line:8
+palette	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^struct palettetype palette;		\/* Used to read palette info	*\/$/;"	variable	line:9	typeref:struct:palettetype
+x	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int x;$/;"	member	line:13	struct:__anon1	file:
+y	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int y;$/;"	member	line:14	struct:__anon1	file:
+h	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int h;$/;"	member	line:15	struct:__anon1	file:
+w	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int w;$/;"	member	line:16	struct:__anon1	file:
+left	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int left;$/;"	member	line:17	struct:__anon1	file:
+top	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int top;$/;"	member	line:18	struct:__anon1	file:
+right	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int right;$/;"	member	line:19	struct:__anon1	file:
+bottom	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^    int bottom;$/;"	member	line:20	struct:__anon1	file:
+Area	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^}Area;$/;"	typedef	line:21	typeref:struct:__anon1	file:
+treeArea	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^Area treeArea,textArea,inputArea;$/;"	variable	line:30
+textArea	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^Area treeArea,textArea,inputArea;$/;"	variable	line:30
+inputArea	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^Area treeArea,textArea,inputArea;$/;"	variable	line:30
+setArea	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void setArea(Area *area,int x,int y,int w,int h){$/;"	function	line:31	signature:(Area *area,int x,int y,int w,int h)
+setviewArea	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void setviewArea(Area *area,int i){$/;"	function	line:41	signature:(Area *area,int i)
+Initialize	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void Initialize(){$/;"	function	line:44	signature:()
+DrawBorder	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void DrawBorder(void){$/;"	function	line:66	signature:(void)
+MainWindow	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void MainWindow( char *header ){$/;"	function	line:74	signature:( char *header )
+StatusLine	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void StatusLine(char *msg )$/;"	function	line:94	signature:(char *msg )
+gprintf	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int gprintf( int *xloc, int *yloc, char *fmt, ... )$/;"	function	line:116	signature:( int *xloc, int *yloc, char *fmt, ... )
+Exit	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void Exit(){$/;"	function	line:132	signature:()
+StartMenu	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void StartMenu(){$/;"	function	line:135	signature:()
+inputTop	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^int inputTop = 0;$/;"	variable	line:152
+inputBuffer	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^char inputBuffer[80];$/;"	variable	line:153
+input	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^char* input(){$/;"	function	line:155	signature:()
+terminal	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^void terminal(){$/;"	function	line:186	signature:()
+main	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/SUTREE.C	/^main(){$/;"	function	line:198	signature:()
+SuTree	/home/peng/Documents/PROGRAM/KNOWLEDGE/Assembly/minic/SuTree/README.md	/^# SuTree$/;"	function	line:1
